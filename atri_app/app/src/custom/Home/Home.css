@@ -1,0 +1,25 @@
+.p-Home.TextBox10,
+.p-Home.TextBox16,
+.p-Home.TextBox25,
+.p-Home.TextBox29,
+.p-Home.TextBox33,
+.p-Home.TextBox36,
+.p-Home.TextBox38,
+.p-Home.TextBox56,
+.p-Home.TextBox93,
+.p-Home.TextBox98,
+.p-Home.TextBox117 {
+  background: -webkit-linear-gradient(
+    108deg,
+    #b16cea 8%,
+    #ff5e69 40%,
+    #ff8a56 77%,
+    #ffa84b 91%
+  );
+  background-clip: text;
+  color: transparent;
+}
+
+.p-Home.Flex150 {
+  filter: saturate(0%);
+}
